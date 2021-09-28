@@ -1,0 +1,3 @@
+1. download the whole GameFolder
+2. The all contents in GameFolder must be in same directory
+3. Click the exe file to start
